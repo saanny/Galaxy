@@ -1,6 +1,6 @@
 ## Galaxy
 
-![alt text](https://raw.githubusercontent.com/saanny/Galaxy/main/static/galaxy.png)
+![alt text](https://raw.githubusercontent.com/saanny/Galaxy/main/static/galaxys.png)
 
 ## Setup
 
