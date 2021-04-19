@@ -2,14 +2,14 @@
 
 ![alt text](https://raw.githubusercontent.com/saanny/Galaxy/main/static/galaxys.png)
 
-# Demo https://lwvgh.csb.app/
-
 ## Setup
 
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
 ```bash
+
+
 # Install dependencies (only the first time)
 npm install
 
@@ -18,4 +18,10 @@ npm run dev
 
 # Build for production in the dist/ directory
 npm run build
+```
+
+## Demo
+
+```bash
+# Demo https://lwvgh.csb.app/
 ```
